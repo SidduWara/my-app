@@ -1,0 +1,51 @@
+/* Customize the blue switch */
+ .custom-control-input.blue:checked ~ .custom-control-label::before {
+    background-color: #2196F3;
+}
+
+.custom-control-input.blue:checked ~ .custom-control-label::after {
+    background-color: #fff;
+}
+
+.custom-control-input.blue ~ .custom-control-label::before {
+    background-color: #fff;
+}
+
+.custom-control-input.blue ~ .custom-control-label::after {
+    background-color: #2196F3;
+}
+
+/* Customize the yellow switch */
+.custom-control-input.yellow:checked ~ .custom-control-label::before {
+    background-color: #FFC107;
+}
+
+.custom-control-input.yellow:checked ~ .custom-control-label::after {
+    background-color: #fff; /* Change the thumb color to white when checked */
+}
+
+.custom-control-input.yellow ~ .custom-control-label::before {
+    background-color: #fff;
+}
+
+.custom-control-input.yellow ~ .custom-control-label::after {
+    background-color: #FFC107; /* Initial thumb color when off (black) */
+}
+
+/* Customize the red switch */
+.custom-control-input.red:checked ~ .custom-control-label::before {
+    background-color: #FF5722;
+}
+
+.custom-control-input.red:checked ~ .custom-control-label::after {
+    background-color: #fff;
+}
+
+.custom-control-input.red ~ .custom-control-label::before {
+    background-color: #fff;
+}
+
+.custom-control-input.red ~ .custom-control-label::after {
+    background-color: #FF5722;
+}
+
