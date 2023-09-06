@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SidduWara/my-app/static/css/main.46a4d567.css",
+    "main.js": "/SidduWara/my-app/static/js/main.a19a0d55.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SidduWara/my-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SidduWara/my-app/index.html",
+    "main.46a4d567.css.map": "/SidduWara/my-app/static/css/main.46a4d567.css.map",
+    "main.a19a0d55.js.map": "/SidduWara/my-app/static/js/main.a19a0d55.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SidduWara/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a4d567.css",
+    "static/js/main.a19a0d55.js"
+  ]
+}
